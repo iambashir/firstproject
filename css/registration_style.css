@@ -1,0 +1,94 @@
+
+
+.bank   {width: 1000px; height: 350px;  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 10px;
+        }
+
+.button{color: #440d0d;
+        background-color: #529de4;
+        border-radius: 5px;
+        width: 100px;
+        height: 30px;
+        font-size: large;
+        border-color: darkred;
+        border-width: 3px;
+        transition: .3s;
+        }
+
+.button:hover{background-color: #3e8e41;
+        color: white;}
+                
+
+.profile{width: 200px; height: 200px;  
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;
+        margin-top: -100px;
+        border-image-outset:3px ;
+        border-style: outset;
+        border-color: darkslateblue;}
+       
+
+.menue{margin: auto;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;}
+
+.main-button{margin-left: auto;
+                margin-right: auto;
+        text-align: center;}  
+                
+.table-home-button{text-align: center;
+                padding-top: 20px;}
+
+ #fieldset{
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right:auto;
+        width: 800px;
+        background-color: #d7d8d8;
+        border-radius: 15px;
+}    
+#legend_heading{text-align: center;}
+
+.field{border-radius: 5px;
+        background-color: #eaf8d7;}
+
+
+
+        .table{
+            width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: left ;
+            border: 2px solid #027979;
+            border-collapse: collapse;
+            padding: 5px;
+            color: #421804;
+            background-color: #dddbdb; 
+            border-radius: 10px;
+        }
+        .tr{border: 2px solid #027979;}
+
+        .th{border: 2px solid #027979; text-align: center;}
+
+        .td{border: 2px solid;}
+
+
+
+.list{text-align: left;}
+
+.about-topics{
+        margin: auto;
+        padding-top: 20px;
+        border-radius: 20px;
+        text-align: center;
+                width: 800px;
+                height: 600px;
+                background-color: #bbb8b8;}
+
+
